@@ -5,20 +5,20 @@
 
 > Run the scripts to create DB - Create Schema and Create Store Procs
 > 
-> ![](Images/SQLScripts.PNG)
+> ![](images/SQLScripts.PNG)
 
 > Change Connection string in appsettings.json in API project:
 > 
-> ![](Images/ChangeConnectionString.PNG)
+> ![](images/ChangeConnectionString.PNG)
 
 > Run the API first on this location:
 >
-> ![](Images/RunApi.PNG)
+> ![](images/RunApi.PNG)
 
 > Run the Console App next on this location:
 >
-> ![](Images/RunConsole.PNG)
+> ![](images/RunConsole.PNG)
 
 > To Run unit tests follow the below command in the mentioned location:
 >
-> ![](Images/RunTests.PNG)
+> ![](images/RunTests.PNG)
